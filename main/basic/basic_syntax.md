@@ -15,16 +15,20 @@
 
 - #### Printing Out
 
+- #### Naming Data
+- ##### Constants
+- ##### Variables
+- ##### 
+
+
 - #### Arithmetic Operations
 - ##### Simple operations
 - ##### Decimal Numbers
 - ##### The remainder operation
 - ##### Order of operations
+- ##### Increment and decrement
 
 - #### Math Functions
-
-- #### Naming Data
-
 
 - #### Control Flow
 - ##### If - Else
